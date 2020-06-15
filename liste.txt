@@ -1,0 +1,1 @@
+A kitabi,A yazari,Gerilim,30-B kitabi,B yazari,Fantastik,40-C Kitabý,C Yazarý,Macera,50-D Kitabý,D Yazarý,Roman,60-Satranç,Stefen Zweig,Roman,100
